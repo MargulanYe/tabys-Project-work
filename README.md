@@ -44,7 +44,8 @@ Unlike platforms like Upwork or Fiverr:
 - Admin moderation panel
 
 ## 👨‍💻 Team Members
-- Akhali Kasymzhomart
+- Akhali Kasymzhomart - ID 24B03***1
 - Yezhekhan Margulan
+Practice Teacher: Alima Kusmanova
 
 
