@@ -1,4 +1,4 @@
-PROJECT
+project
 # Tabys.kz – Platform for Teen Freelancers in Kazakhstan
 
 
