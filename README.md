@@ -1,4 +1,6 @@
+PROJECT
 # Tabys.kz – Platform for Teen Freelancers in Kazakhstan
+
 
 ## 📌 Project Description
 Tabys.kz is a web platform designed to connect clients with teenagers who have basic IT skills.
